@@ -25,3 +25,5 @@ Just pass the URL of web page you want to analyze as argument to VipsTester clas
 
 Preferences of implementation can be changed also there.
 
+这个项目预研目的是为了找到页面要抽取的内容
+而页面分块效果不错,但是由于需要渲染,所以速度不理想只能舍弃
